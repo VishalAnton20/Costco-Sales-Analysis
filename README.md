@@ -61,14 +61,6 @@ Evaluation metrics:
 - MAE (Mean Absolute Error)
 - R² Score
 
-## 📈 Key Results
-
-| Model            | RMSE     | MAE     | R² Score |
-|------------------|----------|---------|----------|
-| Linear Regression| X.XX     | X.XX    | 0.XX     |
-| Random Forest    | X.XX     | X.XX    | 0.XX     |
-| XGBoost          | ✅ Best Performance |
-
 📌 SHAP analysis highlighted:
 - Store ID and Month as major contributors.
 - CPI and Fuel Price had limited predictive power in this dataset.
